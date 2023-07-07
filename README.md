@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouiam Ibrahimi</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
-<img width="400"  src="https://www.google.com/searchsxsrf=AB5stBis409TmCs7jjIxT1A5ezCI8bpvTA:1688737755584&q=coding+girl+image&tbm=isch&sa=X&ved=2ahUKEwi7iqmw3vz_AhXItKQKHfCeC1YQ0pQJegQIDBAB&biw=1280&bih=569&dpr=1.5#imgrc=2qHpLysiqamwBM&imgdii=h_ZSj9vzpQaqjM">
+<img width="400"  align="left" src="https://www.google.com/searchsxsrf=AB5stBis409TmCs7jjIxT1A5ezCI8bpvTA:1688737755584&q=coding+girl+image&tbm=isch&sa=X&ved=2ahUKEwi7iqmw3vz_AhXItKQKHfCeC1YQ0pQJegQIDBAB&biw=1280&bih=569&dpr=1.5#imgrc=2qHpLysiqamwBM&imgdii=h_ZSj9vzpQaqjM">
 
 - 🌱 I’m currently learning **Frameworks**
 
