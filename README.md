@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouiam Ibrahimi</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="[[[[https://www.google.com/search?sxsrf=AB5stBis409TmCs7jjIxT1A5ezCI8bpvTA:1688737755584&q=coding+girl+image&tbm=isch&sa=X&ved=2ahUKEwi7iqmw3vz_AhXItKQKHfCeC1YQ0pQJegQIDBAB&biw=1280&bih=569&dpr=1.5#imgrc=2qHpLysiqamwBM&imgdii=h_ZSj9vzpQaqjM](https://www.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_16739195.htm](https://helios-i.mashable.com/imagery/articles/01cgjb7zgsU4HsGoyjomvUp/hero-image.fill.size_1200x1200.v1644877963.png)](https://mashable.com/article/tumblr-girl-learn-code))](https://www.bing.com/images/search?view=detailV2&ccid=v%2bfD7Gm%2f&id=4F79CB411E81E98CBF077A4EF79DF77EA37AF6F5&thid=OIP.v-fD7Gm_N59ipd5qNKzcXQHaFj&mediaurl=https%3a%2f%2fmiro.medium.com%2fmax%2f1400%2f1*qdAW1TjCN57h1lbuuzvchg.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.bfe7c3ec69bf379f62a5de6a34acdc5d%3frik%3d9fZ6o373nfdOeg%26pid%3dImgRaw%26r%3d0&exph=600&expw=800&q=coding+girl+gif&simid=608016156712767775&FORM=IRPRST&ck=9DB749B160B84C6172ECFE0DCCE83E4B&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)"> 
+
 
 - 🌱 I’m currently learning **web development**
 
