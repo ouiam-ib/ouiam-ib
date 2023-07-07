@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ouiam Ibrahimi</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="[[https://www.google.com/search?sxsrf=AB5stBis409TmCs7jjIxT1A5ezCI8bpvTA:1688737755584&q=coding+girl+image&tbm=isch&sa=X&ved=2ahUKEwi7iqmw3vz_AhXItKQKHfCeC1YQ0pQJegQIDBAB&biw=1280&bih=569&dpr=1.5#imgrc=2qHpLysiqamwBM&imgdii=h_ZSj9vzpQaqjM](https://www.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_16739195.htm](https://helios-i.mashable.com/imagery/articles/01cgjb7zgsU4HsGoyjomvUp/hero-image.fill.size_1200x1200.v1644877963.png))"> 
+<img align="right" alt="coding" width="400" src="[[[https://www.google.com/search?sxsrf=AB5stBis409TmCs7jjIxT1A5ezCI8bpvTA:1688737755584&q=coding+girl+image&tbm=isch&sa=X&ved=2ahUKEwi7iqmw3vz_AhXItKQKHfCeC1YQ0pQJegQIDBAB&biw=1280&bih=569&dpr=1.5#imgrc=2qHpLysiqamwBM&imgdii=h_ZSj9vzpQaqjM](https://www.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_16739195.htm](https://helios-i.mashable.com/imagery/articles/01cgjb7zgsU4HsGoyjomvUp/hero-image.fill.size_1200x1200.v1644877963.png)](https://mashable.com/article/tumblr-girl-learn-code))"> 
 
 - 🌱 I’m currently learning **web development**
 
